@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,131 +29,153 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:11" ;
-    skos:prefLabel "Analamanga"@eng-Latn .
+    skos:prefLabel "Analamanga"@eng-Latn ;
+    wdata:q7200235 "MG11" .
 
 <urn:mdciii:1603:16:450:1:12>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:12" ;
-    skos:prefLabel "Vakinankaratra"@eng-Latn .
+    skos:prefLabel "Vakinankaratra"@eng-Latn ;
+    wdata:q7200235 "MG12" .
 
 <urn:mdciii:1603:16:450:1:13>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:13" ;
-    skos:prefLabel "Itasy"@eng-Latn .
+    skos:prefLabel "Itasy"@eng-Latn ;
+    wdata:q7200235 "MG13" .
 
 <urn:mdciii:1603:16:450:1:14>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:14" ;
-    skos:prefLabel "Bongolava"@eng-Latn .
+    skos:prefLabel "Bongolava"@eng-Latn ;
+    wdata:q7200235 "MG14" .
 
 <urn:mdciii:1603:16:450:1:21>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:21" ;
-    skos:prefLabel "Haute Matsiatra"@eng-Latn .
+    skos:prefLabel "Haute Matsiatra"@eng-Latn ;
+    wdata:q7200235 "MG21" .
 
 <urn:mdciii:1603:16:450:1:22>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:22" ;
-    skos:prefLabel "Amoron I Mania"@eng-Latn .
+    skos:prefLabel "Amoron I Mania"@eng-Latn ;
+    wdata:q7200235 "MG22" .
 
 <urn:mdciii:1603:16:450:1:23>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:23" ;
-    skos:prefLabel "Vatovavy Fitovinany"@eng-Latn .
+    skos:prefLabel "Vatovavy Fitovinany"@eng-Latn ;
+    wdata:q7200235 "MG23" .
 
 <urn:mdciii:1603:16:450:1:24>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:24" ;
-    skos:prefLabel "Ihorombe"@eng-Latn .
+    skos:prefLabel "Ihorombe"@eng-Latn ;
+    wdata:q7200235 "MG24" .
 
 <urn:mdciii:1603:16:450:1:25>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:25" ;
-    skos:prefLabel "Atsimo Atsinanana"@eng-Latn .
+    skos:prefLabel "Atsimo Atsinanana"@eng-Latn ;
+    wdata:q7200235 "MG25" .
 
 <urn:mdciii:1603:16:450:1:31>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:31" ;
-    skos:prefLabel "Atsinanana"@eng-Latn .
+    skos:prefLabel "Atsinanana"@eng-Latn ;
+    wdata:q7200235 "MG31" .
 
 <urn:mdciii:1603:16:450:1:32>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:32" ;
-    skos:prefLabel "Analanjirofo"@eng-Latn .
+    skos:prefLabel "Analanjirofo"@eng-Latn ;
+    wdata:q7200235 "MG32" .
 
 <urn:mdciii:1603:16:450:1:33>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:33" ;
-    skos:prefLabel "Alaotra Mangoro"@eng-Latn .
+    skos:prefLabel "Alaotra Mangoro"@eng-Latn ;
+    wdata:q7200235 "MG33" .
 
 <urn:mdciii:1603:16:450:1:41>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:41" ;
-    skos:prefLabel "Boeny"@eng-Latn .
+    skos:prefLabel "Boeny"@eng-Latn ;
+    wdata:q7200235 "MG41" .
 
 <urn:mdciii:1603:16:450:1:42>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:42" ;
-    skos:prefLabel "Sofia"@eng-Latn .
+    skos:prefLabel "Sofia"@eng-Latn ;
+    wdata:q7200235 "MG42" .
 
 <urn:mdciii:1603:16:450:1:43>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:43" ;
-    skos:prefLabel "Betsiboka"@eng-Latn .
+    skos:prefLabel "Betsiboka"@eng-Latn ;
+    wdata:q7200235 "MG43" .
 
 <urn:mdciii:1603:16:450:1:44>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:44" ;
-    skos:prefLabel "Melaky"@eng-Latn .
+    skos:prefLabel "Melaky"@eng-Latn ;
+    wdata:q7200235 "MG44" .
 
 <urn:mdciii:1603:16:450:1:51>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:51" ;
-    skos:prefLabel "Atsimo Andrefana"@eng-Latn .
+    skos:prefLabel "Atsimo Andrefana"@eng-Latn ;
+    wdata:q7200235 "MG51" .
 
 <urn:mdciii:1603:16:450:1:52>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:52" ;
-    skos:prefLabel "Androy"@eng-Latn .
+    skos:prefLabel "Androy"@eng-Latn ;
+    wdata:q7200235 "MG52" .
 
 <urn:mdciii:1603:16:450:1:53>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:53" ;
-    skos:prefLabel "Anosy"@eng-Latn .
+    skos:prefLabel "Anosy"@eng-Latn ;
+    wdata:q7200235 "MG53" .
 
 <urn:mdciii:1603:16:450:1:54>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:54" ;
-    skos:prefLabel "Menabe"@eng-Latn .
+    skos:prefLabel "Menabe"@eng-Latn ;
+    wdata:q7200235 "MG54" .
 
 <urn:mdciii:1603:16:450:1:71>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:71" ;
-    skos:prefLabel "Diana"@eng-Latn .
+    skos:prefLabel "Diana"@eng-Latn ;
+    wdata:q7200235 "MG71" .
 
 <urn:mdciii:1603:16:450:1:72>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:450:1:72" ;
-    skos:prefLabel "Sava"@eng-Latn .
+    skos:prefLabel "Sava"@eng-Latn ;
+    wdata:q7200235 "MG72" .
 
