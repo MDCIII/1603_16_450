@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "1er Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101001A" ;
+    wdata:Q7200235 "MG11101001A" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -165,7 +165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "2e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101002A" ;
+    wdata:Q7200235 "MG11101002A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101003>
@@ -177,7 +177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "3e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101003A" ;
+    wdata:Q7200235 "MG11101003A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101004>
@@ -189,7 +189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "4e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101004A" ;
+    wdata:Q7200235 "MG11101004A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101005>
@@ -201,7 +201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "5e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101005A" ;
+    wdata:Q7200235 "MG11101005A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101006>
@@ -213,7 +213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "6e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101006A" ;
+    wdata:Q7200235 "MG11101006A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11102>
@@ -225,7 +225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "Antananarivo Avaradrano"@eng-Latn ;
-    wdata:q7200235 "MG11102" ;
+    wdata:Q7200235 "MG11102" ;
 .
 
 <urn:mdciii:1603:16:450:2:11103>
@@ -237,7 +237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "Ambohidratrimo"@eng-Latn ;
-    wdata:q7200235 "MG11103" ;
+    wdata:Q7200235 "MG11103" ;
 .
 
 <urn:mdciii:1603:16:450:2:11104>
@@ -249,7 +249,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "Ankazobe"@eng-Latn ;
-    wdata:q7200235 "MG11104" ;
+    wdata:Q7200235 "MG11104" ;
 .
 
 <urn:mdciii:1603:16:450:2:11106>
@@ -261,7 +261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "Manjakandriana"@eng-Latn ;
-    wdata:q7200235 "MG11106" ;
+    wdata:Q7200235 "MG11106" ;
 .
 
 <urn:mdciii:1603:16:450:2:11107>
@@ -273,7 +273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "Anjozorobe"@eng-Latn ;
-    wdata:q7200235 "MG11107" ;
+    wdata:Q7200235 "MG11107" ;
 .
 
 <urn:mdciii:1603:16:450:2:11115>
@@ -285,7 +285,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "Andramasina"@eng-Latn ;
-    wdata:q7200235 "MG11115" ;
+    wdata:Q7200235 "MG11115" ;
 .
 
 <urn:mdciii:1603:16:450:2:11117>
@@ -297,7 +297,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:11> ;
     skos:prefLabel "Antananarivo Atsimondrano"@eng-Latn ;
-    wdata:q7200235 "MG11117" ;
+    wdata:Q7200235 "MG11117" ;
 .
 
 <urn:mdciii:1603:16:450:2:12108>
@@ -309,7 +309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:12> ;
     skos:prefLabel "Antsirabe I"@eng-Latn ;
-    wdata:q7200235 "MG12108" ;
+    wdata:Q7200235 "MG12108" ;
 .
 
 <urn:mdciii:1603:16:450:2:12109>
@@ -321,7 +321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:12> ;
     skos:prefLabel "Betafo"@eng-Latn ;
-    wdata:q7200235 "MG12109" ;
+    wdata:Q7200235 "MG12109" ;
 .
 
 <urn:mdciii:1603:16:450:2:12110>
@@ -333,7 +333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:12> ;
     skos:prefLabel "Ambatolampy"@eng-Latn ;
-    wdata:q7200235 "MG12110" ;
+    wdata:Q7200235 "MG12110" ;
 .
 
 <urn:mdciii:1603:16:450:2:12114>
@@ -345,7 +345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:12> ;
     skos:prefLabel "Antanifotsy"@eng-Latn ;
-    wdata:q7200235 "MG12114" ;
+    wdata:Q7200235 "MG12114" ;
 .
 
 <urn:mdciii:1603:16:450:2:12116>
@@ -357,7 +357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:12> ;
     skos:prefLabel "Faratsiho"@eng-Latn ;
-    wdata:q7200235 "MG12116" ;
+    wdata:Q7200235 "MG12116" ;
 .
 
 <urn:mdciii:1603:16:450:2:12118>
@@ -369,7 +369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:12> ;
     skos:prefLabel "Antsirabe II"@eng-Latn ;
-    wdata:q7200235 "MG12118" ;
+    wdata:Q7200235 "MG12118" ;
 .
 
 <urn:mdciii:1603:16:450:2:12120>
@@ -381,7 +381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:12> ;
     skos:prefLabel "Mandoto"@eng-Latn ;
-    wdata:q7200235 "MG12120" ;
+    wdata:Q7200235 "MG12120" ;
 .
 
 <urn:mdciii:1603:16:450:2:13105>
@@ -393,7 +393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:13> ;
     skos:prefLabel "Arivonimamo"@eng-Latn ;
-    wdata:q7200235 "MG13105" ;
+    wdata:Q7200235 "MG13105" ;
 .
 
 <urn:mdciii:1603:16:450:2:13112>
@@ -405,7 +405,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:13> ;
     skos:prefLabel "Miarinarivo"@eng-Latn ;
-    wdata:q7200235 "MG13112" ;
+    wdata:Q7200235 "MG13112" ;
 .
 
 <urn:mdciii:1603:16:450:2:13113>
@@ -417,7 +417,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:13> ;
     skos:prefLabel "Soavinandriana"@eng-Latn ;
-    wdata:q7200235 "MG13113" ;
+    wdata:Q7200235 "MG13113" ;
 .
 
 <urn:mdciii:1603:16:450:2:14111>
@@ -429,7 +429,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:14> ;
     skos:prefLabel "Tsiroanomandidy"@eng-Latn ;
-    wdata:q7200235 "MG14111" ;
+    wdata:Q7200235 "MG14111" ;
 .
 
 <urn:mdciii:1603:16:450:2:14119>
@@ -441,7 +441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:14> ;
     skos:prefLabel "Fenoarivobe"@eng-Latn ;
-    wdata:q7200235 "MG14119" ;
+    wdata:Q7200235 "MG14119" ;
 .
 
 <urn:mdciii:1603:16:450:2:21201>
@@ -453,7 +453,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:21> ;
     skos:prefLabel "Fianarantsoa I"@eng-Latn ;
-    wdata:q7200235 "MG21201" ;
+    wdata:Q7200235 "MG21201" ;
 .
 
 <urn:mdciii:1603:16:450:2:21205>
@@ -465,7 +465,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:21> ;
     skos:prefLabel "Ambalavao"@eng-Latn ;
-    wdata:q7200235 "MG21205" ;
+    wdata:Q7200235 "MG21205" ;
 .
 
 <urn:mdciii:1603:16:450:2:21208>
@@ -477,7 +477,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:21> ;
     skos:prefLabel "Ambohimahasoa"@eng-Latn ;
-    wdata:q7200235 "MG21208" ;
+    wdata:Q7200235 "MG21208" ;
 .
 
 <urn:mdciii:1603:16:450:2:21219>
@@ -489,7 +489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:21> ;
     skos:prefLabel "Ikalamavony"@eng-Latn ;
-    wdata:q7200235 "MG21219" ;
+    wdata:Q7200235 "MG21219" ;
 .
 
 <urn:mdciii:1603:16:450:2:21220>
@@ -501,7 +501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:21> ;
     skos:prefLabel "Lalangina"@eng-Latn ;
-    wdata:q7200235 "MG21220" ;
+    wdata:Q7200235 "MG21220" ;
 .
 
 <urn:mdciii:1603:16:450:2:21224>
@@ -513,7 +513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:21> ;
     skos:prefLabel "Vohibato"@eng-Latn ;
-    wdata:q7200235 "MG21224" ;
+    wdata:Q7200235 "MG21224" ;
 .
 
 <urn:mdciii:1603:16:450:2:21225>
@@ -525,7 +525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:21> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:21> ;
     skos:prefLabel "Isandra"@eng-Latn ;
-    wdata:q7200235 "MG21225" ;
+    wdata:Q7200235 "MG21225" ;
 .
 
 <urn:mdciii:1603:16:450:2:22202>
@@ -537,7 +537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:22> ;
     skos:prefLabel "Ambatofinandrahana"@eng-Latn ;
-    wdata:q7200235 "MG22202" ;
+    wdata:Q7200235 "MG22202" ;
 .
 
 <urn:mdciii:1603:16:450:2:22203>
@@ -549,7 +549,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:22> ;
     skos:prefLabel "Ambositra"@eng-Latn ;
-    wdata:q7200235 "MG22203" ;
+    wdata:Q7200235 "MG22203" ;
 .
 
 <urn:mdciii:1603:16:450:2:22204>
@@ -561,7 +561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:22> ;
     skos:prefLabel "Fandriana"@eng-Latn ;
-    wdata:q7200235 "MG22204" ;
+    wdata:Q7200235 "MG22204" ;
 .
 
 <urn:mdciii:1603:16:450:2:22223>
@@ -573,7 +573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:22> ;
     skos:prefLabel "Manandriana"@eng-Latn ;
-    wdata:q7200235 "MG22223" ;
+    wdata:Q7200235 "MG22223" ;
 .
 
 <urn:mdciii:1603:16:450:2:23206>
@@ -585,7 +585,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:23> ;
     skos:prefLabel "Ifanadiana"@eng-Latn ;
-    wdata:q7200235 "MG23206" ;
+    wdata:Q7200235 "MG23206" ;
 .
 
 <urn:mdciii:1603:16:450:2:23207>
@@ -597,7 +597,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:23> ;
     skos:prefLabel "Nosy-Varika"@eng-Latn ;
-    wdata:q7200235 "MG23207" ;
+    wdata:Q7200235 "MG23207" ;
 .
 
 <urn:mdciii:1603:16:450:2:23209>
@@ -609,7 +609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:23> ;
     skos:prefLabel "Mananjary"@eng-Latn ;
-    wdata:q7200235 "MG23209" ;
+    wdata:Q7200235 "MG23209" ;
 .
 
 <urn:mdciii:1603:16:450:2:23210>
@@ -621,7 +621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:23> ;
     skos:prefLabel "Manakara Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG23210" ;
+    wdata:Q7200235 "MG23210" ;
 .
 
 <urn:mdciii:1603:16:450:2:23211>
@@ -633,7 +633,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:23> ;
     skos:prefLabel "Ikongo"@eng-Latn ;
-    wdata:q7200235 "MG23211" ;
+    wdata:Q7200235 "MG23211" ;
 .
 
 <urn:mdciii:1603:16:450:2:23212>
@@ -645,7 +645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:23> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:23> ;
     skos:prefLabel "Vohipeno"@eng-Latn ;
-    wdata:q7200235 "MG23212" ;
+    wdata:Q7200235 "MG23212" ;
 .
 
 <urn:mdciii:1603:16:450:2:24216>
@@ -657,7 +657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:24> ;
     skos:prefLabel "Ihosy"@eng-Latn ;
-    wdata:q7200235 "MG24216" ;
+    wdata:Q7200235 "MG24216" ;
 .
 
 <urn:mdciii:1603:16:450:2:24218>
@@ -669,7 +669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:24> ;
     skos:prefLabel "Ivohibe"@eng-Latn ;
-    wdata:q7200235 "MG24218" ;
+    wdata:Q7200235 "MG24218" ;
 .
 
 <urn:mdciii:1603:16:450:2:24221>
@@ -681,7 +681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:24> ;
     skos:prefLabel "Iakora"@eng-Latn ;
-    wdata:q7200235 "MG24221" ;
+    wdata:Q7200235 "MG24221" ;
 .
 
 <urn:mdciii:1603:16:450:2:25213>
@@ -693,7 +693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:25> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:25> ;
     skos:prefLabel "Farafangana"@eng-Latn ;
-    wdata:q7200235 "MG25213" ;
+    wdata:Q7200235 "MG25213" ;
 .
 
 <urn:mdciii:1603:16:450:2:25214>
@@ -705,7 +705,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:25> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:25> ;
     skos:prefLabel "Vangaindrano"@eng-Latn ;
-    wdata:q7200235 "MG25214" ;
+    wdata:Q7200235 "MG25214" ;
 .
 
 <urn:mdciii:1603:16:450:2:25215>
@@ -717,7 +717,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:25> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:25> ;
     skos:prefLabel "Midongy-Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG25215" ;
+    wdata:Q7200235 "MG25215" ;
 .
 
 <urn:mdciii:1603:16:450:2:25217>
@@ -729,7 +729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:25> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:25> ;
     skos:prefLabel "Vondrozo"@eng-Latn ;
-    wdata:q7200235 "MG25217" ;
+    wdata:Q7200235 "MG25217" ;
 .
 
 <urn:mdciii:1603:16:450:2:25222>
@@ -741,7 +741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:25> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:25> ;
     skos:prefLabel "Befotaka"@eng-Latn ;
-    wdata:q7200235 "MG25222" ;
+    wdata:Q7200235 "MG25222" ;
 .
 
 <urn:mdciii:1603:16:450:2:31301>
@@ -753,7 +753,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:31> ;
     skos:prefLabel "Toamasina I"@eng-Latn ;
-    wdata:q7200235 "MG31301" ;
+    wdata:Q7200235 "MG31301" ;
 .
 
 <urn:mdciii:1603:16:450:2:31306>
@@ -765,7 +765,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:31> ;
     skos:prefLabel "Brickaville"@eng-Latn ;
-    wdata:q7200235 "MG31306" ;
+    wdata:Q7200235 "MG31306" ;
 .
 
 <urn:mdciii:1603:16:450:2:31307>
@@ -777,7 +777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:31> ;
     skos:prefLabel "Vatomandry"@eng-Latn ;
-    wdata:q7200235 "MG31307" ;
+    wdata:Q7200235 "MG31307" ;
 .
 
 <urn:mdciii:1603:16:450:2:31308>
@@ -789,7 +789,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:31> ;
     skos:prefLabel "Mahanoro"@eng-Latn ;
-    wdata:q7200235 "MG31308" ;
+    wdata:Q7200235 "MG31308" ;
 .
 
 <urn:mdciii:1603:16:450:2:31309>
@@ -801,7 +801,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:31> ;
     skos:prefLabel "Marolambo"@eng-Latn ;
-    wdata:q7200235 "MG31309" ;
+    wdata:Q7200235 "MG31309" ;
 .
 
 <urn:mdciii:1603:16:450:2:31310>
@@ -813,7 +813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:31> ;
     skos:prefLabel "Toamasina II"@eng-Latn ;
-    wdata:q7200235 "MG31310" ;
+    wdata:Q7200235 "MG31310" ;
 .
 
 <urn:mdciii:1603:16:450:2:31311>
@@ -825,7 +825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:31> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:31> ;
     skos:prefLabel "Antanambao Manampontsy"@eng-Latn ;
-    wdata:q7200235 "MG31311" ;
+    wdata:Q7200235 "MG31311" ;
 .
 
 <urn:mdciii:1603:16:450:2:32302>
@@ -837,7 +837,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:32> ;
     skos:prefLabel "Sainte Marie"@eng-Latn ;
-    wdata:q7200235 "MG32302" ;
+    wdata:Q7200235 "MG32302" ;
 .
 
 <urn:mdciii:1603:16:450:2:32303>
@@ -849,7 +849,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:32> ;
     skos:prefLabel "Maroantsetra"@eng-Latn ;
-    wdata:q7200235 "MG32303" ;
+    wdata:Q7200235 "MG32303" ;
 .
 
 <urn:mdciii:1603:16:450:2:32304>
@@ -861,7 +861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:32> ;
     skos:prefLabel "Mananara-Avaratra"@eng-Latn ;
-    wdata:q7200235 "MG32304" ;
+    wdata:Q7200235 "MG32304" ;
 .
 
 <urn:mdciii:1603:16:450:2:32305>
@@ -873,7 +873,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:32> ;
     skos:prefLabel "Fenerive Est"@eng-Latn ;
-    wdata:q7200235 "MG32305" ;
+    wdata:Q7200235 "MG32305" ;
 .
 
 <urn:mdciii:1603:16:450:2:32315>
@@ -885,7 +885,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:32> ;
     skos:prefLabel "Vavatenina"@eng-Latn ;
-    wdata:q7200235 "MG32315" ;
+    wdata:Q7200235 "MG32315" ;
 .
 
 <urn:mdciii:1603:16:450:2:32318>
@@ -897,7 +897,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:32> ;
     skos:prefLabel "Soanierana Ivongo"@eng-Latn ;
-    wdata:q7200235 "MG32318" ;
+    wdata:Q7200235 "MG32318" ;
 .
 
 <urn:mdciii:1603:16:450:2:33312>
@@ -909,7 +909,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:33> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:33> ;
     skos:prefLabel "Amparafaravola"@eng-Latn ;
-    wdata:q7200235 "MG33312" ;
+    wdata:Q7200235 "MG33312" ;
 .
 
 <urn:mdciii:1603:16:450:2:33313>
@@ -921,7 +921,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:33> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:33> ;
     skos:prefLabel "Ambatondrazaka"@eng-Latn ;
-    wdata:q7200235 "MG33313" ;
+    wdata:Q7200235 "MG33313" ;
 .
 
 <urn:mdciii:1603:16:450:2:33314>
@@ -933,7 +933,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:33> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:33> ;
     skos:prefLabel "Moramanga"@eng-Latn ;
-    wdata:q7200235 "MG33314" ;
+    wdata:Q7200235 "MG33314" ;
 .
 
 <urn:mdciii:1603:16:450:2:33316>
@@ -945,7 +945,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:33> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:33> ;
     skos:prefLabel "Andilamena"@eng-Latn ;
-    wdata:q7200235 "MG33316" ;
+    wdata:Q7200235 "MG33316" ;
 .
 
 <urn:mdciii:1603:16:450:2:33317>
@@ -957,7 +957,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:33> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:33> ;
     skos:prefLabel "Anosibe-An'ala"@eng-Latn ;
-    wdata:q7200235 "MG33317" ;
+    wdata:Q7200235 "MG33317" ;
 .
 
 <urn:mdciii:1603:16:450:2:41401>
@@ -969,7 +969,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:41> ;
     skos:prefLabel "Mahajanga I"@eng-Latn ;
-    wdata:q7200235 "MG41401" ;
+    wdata:Q7200235 "MG41401" ;
 .
 
 <urn:mdciii:1603:16:450:2:41403>
@@ -981,7 +981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:41> ;
     skos:prefLabel "Soalala"@eng-Latn ;
-    wdata:q7200235 "MG41403" ;
+    wdata:Q7200235 "MG41403" ;
 .
 
 <urn:mdciii:1603:16:450:2:41405>
@@ -993,7 +993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:41> ;
     skos:prefLabel "Ambato Boeni"@eng-Latn ;
-    wdata:q7200235 "MG41405" ;
+    wdata:Q7200235 "MG41405" ;
 .
 
 <urn:mdciii:1603:16:450:2:41406>
@@ -1005,7 +1005,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:41> ;
     skos:prefLabel "Marovoay"@eng-Latn ;
-    wdata:q7200235 "MG41406" ;
+    wdata:Q7200235 "MG41406" ;
 .
 
 <urn:mdciii:1603:16:450:2:41407>
@@ -1017,7 +1017,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:41> ;
     skos:prefLabel "Mitsinjo"@eng-Latn ;
-    wdata:q7200235 "MG41407" ;
+    wdata:Q7200235 "MG41407" ;
 .
 
 <urn:mdciii:1603:16:450:2:41415>
@@ -1029,7 +1029,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:41> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:41> ;
     skos:prefLabel "Mahajanga II"@eng-Latn ;
-    wdata:q7200235 "MG41415" ;
+    wdata:Q7200235 "MG41415" ;
 .
 
 <urn:mdciii:1603:16:450:2:42409>
@@ -1041,7 +1041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:42> ;
     skos:prefLabel "Port-Berge (Boriziny-Vaovao)"@eng-Latn ;
-    wdata:q7200235 "MG42409" ;
+    wdata:Q7200235 "MG42409" ;
 .
 
 <urn:mdciii:1603:16:450:2:42410>
@@ -1053,7 +1053,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:42> ;
     skos:prefLabel "Mandritsara"@eng-Latn ;
-    wdata:q7200235 "MG42410" ;
+    wdata:Q7200235 "MG42410" ;
 .
 
 <urn:mdciii:1603:16:450:2:42411>
@@ -1065,7 +1065,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:42> ;
     skos:prefLabel "Analalava"@eng-Latn ;
-    wdata:q7200235 "MG42411" ;
+    wdata:Q7200235 "MG42411" ;
 .
 
 <urn:mdciii:1603:16:450:2:42412>
@@ -1077,7 +1077,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:42> ;
     skos:prefLabel "Befandriana Nord"@eng-Latn ;
-    wdata:q7200235 "MG42412" ;
+    wdata:Q7200235 "MG42412" ;
 .
 
 <urn:mdciii:1603:16:450:2:42413>
@@ -1089,7 +1089,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:42> ;
     skos:prefLabel "Antsohihy"@eng-Latn ;
-    wdata:q7200235 "MG42413" ;
+    wdata:Q7200235 "MG42413" ;
 .
 
 <urn:mdciii:1603:16:450:2:42414>
@@ -1101,7 +1101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:42> ;
     skos:prefLabel "Bealanana"@eng-Latn ;
-    wdata:q7200235 "MG42414" ;
+    wdata:Q7200235 "MG42414" ;
 .
 
 <urn:mdciii:1603:16:450:2:42423>
@@ -1113,7 +1113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:42> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:42> ;
     skos:prefLabel "Mampikony"@eng-Latn ;
-    wdata:q7200235 "MG42423" ;
+    wdata:Q7200235 "MG42423" ;
 .
 
 <urn:mdciii:1603:16:450:2:43404>
@@ -1125,7 +1125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:43> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:43> ;
     skos:prefLabel "Maevatanana"@eng-Latn ;
-    wdata:q7200235 "MG43404" ;
+    wdata:Q7200235 "MG43404" ;
 .
 
 <urn:mdciii:1603:16:450:2:43408>
@@ -1137,7 +1137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:43> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:43> ;
     skos:prefLabel "Tsaratanana"@eng-Latn ;
-    wdata:q7200235 "MG43408" ;
+    wdata:Q7200235 "MG43408" ;
 .
 
 <urn:mdciii:1603:16:450:2:43416>
@@ -1149,7 +1149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:43> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:43> ;
     skos:prefLabel "Kandreho"@eng-Latn ;
-    wdata:q7200235 "MG43416" ;
+    wdata:Q7200235 "MG43416" ;
 .
 
 <urn:mdciii:1603:16:450:2:44402>
@@ -1161,7 +1161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:44> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:44> ;
     skos:prefLabel "Besalampy"@eng-Latn ;
-    wdata:q7200235 "MG44402" ;
+    wdata:Q7200235 "MG44402" ;
 .
 
 <urn:mdciii:1603:16:450:2:44417>
@@ -1173,7 +1173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:44> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:44> ;
     skos:prefLabel "Ambatomainty"@eng-Latn ;
-    wdata:q7200235 "MG44417" ;
+    wdata:Q7200235 "MG44417" ;
 .
 
 <urn:mdciii:1603:16:450:2:44420>
@@ -1185,7 +1185,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:44> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:44> ;
     skos:prefLabel "Antsalova"@eng-Latn ;
-    wdata:q7200235 "MG44420" ;
+    wdata:Q7200235 "MG44420" ;
 .
 
 <urn:mdciii:1603:16:450:2:44421>
@@ -1197,7 +1197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:44> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:44> ;
     skos:prefLabel "Maintirano"@eng-Latn ;
-    wdata:q7200235 "MG44421" ;
+    wdata:Q7200235 "MG44421" ;
 .
 
 <urn:mdciii:1603:16:450:2:44422>
@@ -1209,7 +1209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:44> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:44> ;
     skos:prefLabel "Morafenobe"@eng-Latn ;
-    wdata:q7200235 "MG44422" ;
+    wdata:Q7200235 "MG44422" ;
 .
 
 <urn:mdciii:1603:16:450:2:51501>
@@ -1221,7 +1221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Toliary-I"@eng-Latn ;
-    wdata:q7200235 "MG51501" ;
+    wdata:Q7200235 "MG51501" ;
 .
 
 <urn:mdciii:1603:16:450:2:51503>
@@ -1233,7 +1233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Beroroha"@eng-Latn ;
-    wdata:q7200235 "MG51503" ;
+    wdata:Q7200235 "MG51503" ;
 .
 
 <urn:mdciii:1603:16:450:2:51504>
@@ -1245,7 +1245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Morombe"@eng-Latn ;
-    wdata:q7200235 "MG51504" ;
+    wdata:Q7200235 "MG51504" ;
 .
 
 <urn:mdciii:1603:16:450:2:51505>
@@ -1257,7 +1257,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Ankazoabo"@eng-Latn ;
-    wdata:q7200235 "MG51505" ;
+    wdata:Q7200235 "MG51505" ;
 .
 
 <urn:mdciii:1603:16:450:2:51506>
@@ -1269,7 +1269,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Betioky Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG51506" ;
+    wdata:Q7200235 "MG51506" ;
 .
 
 <urn:mdciii:1603:16:450:2:51507>
@@ -1281,7 +1281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Ampanihy Ouest"@eng-Latn ;
-    wdata:q7200235 "MG51507" ;
+    wdata:Q7200235 "MG51507" ;
 .
 
 <urn:mdciii:1603:16:450:2:51512>
@@ -1293,7 +1293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Sakaraha"@eng-Latn ;
-    wdata:q7200235 "MG51512" ;
+    wdata:Q7200235 "MG51512" ;
 .
 
 <urn:mdciii:1603:16:450:2:51520>
@@ -1305,7 +1305,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Toliary-II"@eng-Latn ;
-    wdata:q7200235 "MG51520" ;
+    wdata:Q7200235 "MG51520" ;
 .
 
 <urn:mdciii:1603:16:450:2:51521>
@@ -1317,7 +1317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:51> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:51> ;
     skos:prefLabel "Benenitra"@eng-Latn ;
-    wdata:q7200235 "MG51521" ;
+    wdata:Q7200235 "MG51521" ;
 .
 
 <urn:mdciii:1603:16:450:2:52513>
@@ -1329,7 +1329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:52> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:52> ;
     skos:prefLabel "Beloha"@eng-Latn ;
-    wdata:q7200235 "MG52513" ;
+    wdata:Q7200235 "MG52513" ;
 .
 
 <urn:mdciii:1603:16:450:2:52514>
@@ -1341,7 +1341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:52> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:52> ;
     skos:prefLabel "Tsihombe"@eng-Latn ;
-    wdata:q7200235 "MG52514" ;
+    wdata:Q7200235 "MG52514" ;
 .
 
 <urn:mdciii:1603:16:450:2:52516>
@@ -1353,7 +1353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:52> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:52> ;
     skos:prefLabel "Ambovombe-Androy"@eng-Latn ;
-    wdata:q7200235 "MG52516" ;
+    wdata:Q7200235 "MG52516" ;
 .
 
 <urn:mdciii:1603:16:450:2:52518>
@@ -1365,7 +1365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:52> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:52> ;
     skos:prefLabel "Bekily"@eng-Latn ;
-    wdata:q7200235 "MG52518" ;
+    wdata:Q7200235 "MG52518" ;
 .
 
 <urn:mdciii:1603:16:450:2:53515>
@@ -1377,7 +1377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:53> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:53> ;
     skos:prefLabel "Taolagnaro"@eng-Latn ;
-    wdata:q7200235 "MG53515" ;
+    wdata:Q7200235 "MG53515" ;
 .
 
 <urn:mdciii:1603:16:450:2:53517>
@@ -1389,7 +1389,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:53> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:53> ;
     skos:prefLabel "Betroka"@eng-Latn ;
-    wdata:q7200235 "MG53517" ;
+    wdata:Q7200235 "MG53517" ;
 .
 
 <urn:mdciii:1603:16:450:2:53519>
@@ -1401,7 +1401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:53> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:53> ;
     skos:prefLabel "Amboasary-Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG53519" ;
+    wdata:Q7200235 "MG53519" ;
 .
 
 <urn:mdciii:1603:16:450:2:54502>
@@ -1413,7 +1413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:54> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:54> ;
     skos:prefLabel "Manja"@eng-Latn ;
-    wdata:q7200235 "MG54502" ;
+    wdata:Q7200235 "MG54502" ;
 .
 
 <urn:mdciii:1603:16:450:2:54508>
@@ -1425,7 +1425,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:54> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:54> ;
     skos:prefLabel "Morondava"@eng-Latn ;
-    wdata:q7200235 "MG54508" ;
+    wdata:Q7200235 "MG54508" ;
 .
 
 <urn:mdciii:1603:16:450:2:54509>
@@ -1437,7 +1437,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:54> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:54> ;
     skos:prefLabel "Mahabo"@eng-Latn ;
-    wdata:q7200235 "MG54509" ;
+    wdata:Q7200235 "MG54509" ;
 .
 
 <urn:mdciii:1603:16:450:2:54510>
@@ -1449,7 +1449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:54> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:54> ;
     skos:prefLabel "Belo Sur Tsiribihina"@eng-Latn ;
-    wdata:q7200235 "MG54510" ;
+    wdata:Q7200235 "MG54510" ;
 .
 
 <urn:mdciii:1603:16:450:2:54511>
@@ -1461,7 +1461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:54> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:54> ;
     skos:prefLabel "Miandrivazo"@eng-Latn ;
-    wdata:q7200235 "MG54511" ;
+    wdata:Q7200235 "MG54511" ;
 .
 
 <urn:mdciii:1603:16:450:2:71713>
@@ -1473,7 +1473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:71> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:71> ;
     skos:prefLabel "Antsiranana II"@eng-Latn ;
-    wdata:q7200235 "MG71713" ;
+    wdata:Q7200235 "MG71713" ;
 .
 
 <urn:mdciii:1603:16:450:2:71715>
@@ -1485,7 +1485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:71> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:71> ;
     skos:prefLabel "Antsiranana I"@eng-Latn ;
-    wdata:q7200235 "MG71715" ;
+    wdata:Q7200235 "MG71715" ;
 .
 
 <urn:mdciii:1603:16:450:2:71717>
@@ -1497,7 +1497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:71> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:71> ;
     skos:prefLabel "Ambilobe"@eng-Latn ;
-    wdata:q7200235 "MG71717" ;
+    wdata:Q7200235 "MG71717" ;
 .
 
 <urn:mdciii:1603:16:450:2:71718>
@@ -1509,7 +1509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:71> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:71> ;
     skos:prefLabel "Nosy-Be"@eng-Latn ;
-    wdata:q7200235 "MG71718" ;
+    wdata:Q7200235 "MG71718" ;
 .
 
 <urn:mdciii:1603:16:450:2:71719>
@@ -1521,7 +1521,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:71> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:71> ;
     skos:prefLabel "Ambanja"@eng-Latn ;
-    wdata:q7200235 "MG71719" ;
+    wdata:Q7200235 "MG71719" ;
 .
 
 <urn:mdciii:1603:16:450:2:72710>
@@ -1533,7 +1533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:72> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:72> ;
     skos:prefLabel "Antalaha"@eng-Latn ;
-    wdata:q7200235 "MG72710" ;
+    wdata:Q7200235 "MG72710" ;
 .
 
 <urn:mdciii:1603:16:450:2:72711>
@@ -1545,7 +1545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:72> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:72> ;
     skos:prefLabel "Sambava"@eng-Latn ;
-    wdata:q7200235 "MG72711" ;
+    wdata:Q7200235 "MG72711" ;
 .
 
 <urn:mdciii:1603:16:450:2:72712>
@@ -1557,7 +1557,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:72> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:72> ;
     skos:prefLabel "Andapa"@eng-Latn ;
-    wdata:q7200235 "MG72712" ;
+    wdata:Q7200235 "MG72712" ;
 .
 
 <urn:mdciii:1603:16:450:2:72716>
@@ -1569,6 +1569,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:450:1:72> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:450:1:72> ;
     skos:prefLabel "Vohemar"@eng-Latn ;
-    wdata:q7200235 "MG72716" ;
+    wdata:Q7200235 "MG72716" ;
 .
 

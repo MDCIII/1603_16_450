@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:450()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11101001" ;
     skos:prefLabel "1er Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101001A" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -158,7 +156,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11101002" ;
     skos:prefLabel "2e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101002A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101003>
@@ -167,7 +164,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11101003" ;
     skos:prefLabel "3e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101003A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101004>
@@ -176,7 +172,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11101004" ;
     skos:prefLabel "4e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101004A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101005>
@@ -185,7 +180,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11101005" ;
     skos:prefLabel "5e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101005A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11101006>
@@ -194,7 +188,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11101006" ;
     skos:prefLabel "6e Arrondissement"@eng-Latn ;
-    wdata:q7200235 "MG11101006A" ;
 .
 
 <urn:mdciii:1603:16:450:2:11102>
@@ -203,7 +196,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11102" ;
     skos:prefLabel "Antananarivo Avaradrano"@eng-Latn ;
-    wdata:q7200235 "MG11102" ;
 .
 
 <urn:mdciii:1603:16:450:2:11103>
@@ -212,7 +204,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11103" ;
     skos:prefLabel "Ambohidratrimo"@eng-Latn ;
-    wdata:q7200235 "MG11103" ;
 .
 
 <urn:mdciii:1603:16:450:2:11104>
@@ -221,7 +212,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11104" ;
     skos:prefLabel "Ankazobe"@eng-Latn ;
-    wdata:q7200235 "MG11104" ;
 .
 
 <urn:mdciii:1603:16:450:2:11106>
@@ -230,7 +220,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11106" ;
     skos:prefLabel "Manjakandriana"@eng-Latn ;
-    wdata:q7200235 "MG11106" ;
 .
 
 <urn:mdciii:1603:16:450:2:11107>
@@ -239,7 +228,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11107" ;
     skos:prefLabel "Anjozorobe"@eng-Latn ;
-    wdata:q7200235 "MG11107" ;
 .
 
 <urn:mdciii:1603:16:450:2:11115>
@@ -248,7 +236,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11115" ;
     skos:prefLabel "Andramasina"@eng-Latn ;
-    wdata:q7200235 "MG11115" ;
 .
 
 <urn:mdciii:1603:16:450:2:11117>
@@ -257,7 +244,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:11117" ;
     skos:prefLabel "Antananarivo Atsimondrano"@eng-Latn ;
-    wdata:q7200235 "MG11117" ;
 .
 
 <urn:mdciii:1603:16:450:2:12108>
@@ -266,7 +252,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:12108" ;
     skos:prefLabel "Antsirabe I"@eng-Latn ;
-    wdata:q7200235 "MG12108" ;
 .
 
 <urn:mdciii:1603:16:450:2:12109>
@@ -275,7 +260,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:12109" ;
     skos:prefLabel "Betafo"@eng-Latn ;
-    wdata:q7200235 "MG12109" ;
 .
 
 <urn:mdciii:1603:16:450:2:12110>
@@ -284,7 +268,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:12110" ;
     skos:prefLabel "Ambatolampy"@eng-Latn ;
-    wdata:q7200235 "MG12110" ;
 .
 
 <urn:mdciii:1603:16:450:2:12114>
@@ -293,7 +276,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:12114" ;
     skos:prefLabel "Antanifotsy"@eng-Latn ;
-    wdata:q7200235 "MG12114" ;
 .
 
 <urn:mdciii:1603:16:450:2:12116>
@@ -302,7 +284,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:12116" ;
     skos:prefLabel "Faratsiho"@eng-Latn ;
-    wdata:q7200235 "MG12116" ;
 .
 
 <urn:mdciii:1603:16:450:2:12118>
@@ -311,7 +292,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:12118" ;
     skos:prefLabel "Antsirabe II"@eng-Latn ;
-    wdata:q7200235 "MG12118" ;
 .
 
 <urn:mdciii:1603:16:450:2:12120>
@@ -320,7 +300,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:12120" ;
     skos:prefLabel "Mandoto"@eng-Latn ;
-    wdata:q7200235 "MG12120" ;
 .
 
 <urn:mdciii:1603:16:450:2:13105>
@@ -329,7 +308,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:13105" ;
     skos:prefLabel "Arivonimamo"@eng-Latn ;
-    wdata:q7200235 "MG13105" ;
 .
 
 <urn:mdciii:1603:16:450:2:13112>
@@ -338,7 +316,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:13112" ;
     skos:prefLabel "Miarinarivo"@eng-Latn ;
-    wdata:q7200235 "MG13112" ;
 .
 
 <urn:mdciii:1603:16:450:2:13113>
@@ -347,7 +324,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:13113" ;
     skos:prefLabel "Soavinandriana"@eng-Latn ;
-    wdata:q7200235 "MG13113" ;
 .
 
 <urn:mdciii:1603:16:450:2:14111>
@@ -356,7 +332,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:14111" ;
     skos:prefLabel "Tsiroanomandidy"@eng-Latn ;
-    wdata:q7200235 "MG14111" ;
 .
 
 <urn:mdciii:1603:16:450:2:14119>
@@ -365,7 +340,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:14119" ;
     skos:prefLabel "Fenoarivobe"@eng-Latn ;
-    wdata:q7200235 "MG14119" ;
 .
 
 <urn:mdciii:1603:16:450:2:21201>
@@ -374,7 +348,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:21201" ;
     skos:prefLabel "Fianarantsoa I"@eng-Latn ;
-    wdata:q7200235 "MG21201" ;
 .
 
 <urn:mdciii:1603:16:450:2:21205>
@@ -383,7 +356,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:21205" ;
     skos:prefLabel "Ambalavao"@eng-Latn ;
-    wdata:q7200235 "MG21205" ;
 .
 
 <urn:mdciii:1603:16:450:2:21208>
@@ -392,7 +364,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:21208" ;
     skos:prefLabel "Ambohimahasoa"@eng-Latn ;
-    wdata:q7200235 "MG21208" ;
 .
 
 <urn:mdciii:1603:16:450:2:21219>
@@ -401,7 +372,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:21219" ;
     skos:prefLabel "Ikalamavony"@eng-Latn ;
-    wdata:q7200235 "MG21219" ;
 .
 
 <urn:mdciii:1603:16:450:2:21220>
@@ -410,7 +380,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:21220" ;
     skos:prefLabel "Lalangina"@eng-Latn ;
-    wdata:q7200235 "MG21220" ;
 .
 
 <urn:mdciii:1603:16:450:2:21224>
@@ -419,7 +388,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:21224" ;
     skos:prefLabel "Vohibato"@eng-Latn ;
-    wdata:q7200235 "MG21224" ;
 .
 
 <urn:mdciii:1603:16:450:2:21225>
@@ -428,7 +396,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:21225" ;
     skos:prefLabel "Isandra"@eng-Latn ;
-    wdata:q7200235 "MG21225" ;
 .
 
 <urn:mdciii:1603:16:450:2:22202>
@@ -437,7 +404,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:22202" ;
     skos:prefLabel "Ambatofinandrahana"@eng-Latn ;
-    wdata:q7200235 "MG22202" ;
 .
 
 <urn:mdciii:1603:16:450:2:22203>
@@ -446,7 +412,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:22203" ;
     skos:prefLabel "Ambositra"@eng-Latn ;
-    wdata:q7200235 "MG22203" ;
 .
 
 <urn:mdciii:1603:16:450:2:22204>
@@ -455,7 +420,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:22204" ;
     skos:prefLabel "Fandriana"@eng-Latn ;
-    wdata:q7200235 "MG22204" ;
 .
 
 <urn:mdciii:1603:16:450:2:22223>
@@ -464,7 +428,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:22223" ;
     skos:prefLabel "Manandriana"@eng-Latn ;
-    wdata:q7200235 "MG22223" ;
 .
 
 <urn:mdciii:1603:16:450:2:23206>
@@ -473,7 +436,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:23206" ;
     skos:prefLabel "Ifanadiana"@eng-Latn ;
-    wdata:q7200235 "MG23206" ;
 .
 
 <urn:mdciii:1603:16:450:2:23207>
@@ -482,7 +444,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:23207" ;
     skos:prefLabel "Nosy-Varika"@eng-Latn ;
-    wdata:q7200235 "MG23207" ;
 .
 
 <urn:mdciii:1603:16:450:2:23209>
@@ -491,7 +452,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:23209" ;
     skos:prefLabel "Mananjary"@eng-Latn ;
-    wdata:q7200235 "MG23209" ;
 .
 
 <urn:mdciii:1603:16:450:2:23210>
@@ -500,7 +460,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:23210" ;
     skos:prefLabel "Manakara Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG23210" ;
 .
 
 <urn:mdciii:1603:16:450:2:23211>
@@ -509,7 +468,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:23211" ;
     skos:prefLabel "Ikongo"@eng-Latn ;
-    wdata:q7200235 "MG23211" ;
 .
 
 <urn:mdciii:1603:16:450:2:23212>
@@ -518,7 +476,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:23212" ;
     skos:prefLabel "Vohipeno"@eng-Latn ;
-    wdata:q7200235 "MG23212" ;
 .
 
 <urn:mdciii:1603:16:450:2:24216>
@@ -527,7 +484,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:24216" ;
     skos:prefLabel "Ihosy"@eng-Latn ;
-    wdata:q7200235 "MG24216" ;
 .
 
 <urn:mdciii:1603:16:450:2:24218>
@@ -536,7 +492,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:24218" ;
     skos:prefLabel "Ivohibe"@eng-Latn ;
-    wdata:q7200235 "MG24218" ;
 .
 
 <urn:mdciii:1603:16:450:2:24221>
@@ -545,7 +500,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:24221" ;
     skos:prefLabel "Iakora"@eng-Latn ;
-    wdata:q7200235 "MG24221" ;
 .
 
 <urn:mdciii:1603:16:450:2:25213>
@@ -554,7 +508,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:25213" ;
     skos:prefLabel "Farafangana"@eng-Latn ;
-    wdata:q7200235 "MG25213" ;
 .
 
 <urn:mdciii:1603:16:450:2:25214>
@@ -563,7 +516,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:25214" ;
     skos:prefLabel "Vangaindrano"@eng-Latn ;
-    wdata:q7200235 "MG25214" ;
 .
 
 <urn:mdciii:1603:16:450:2:25215>
@@ -572,7 +524,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:25215" ;
     skos:prefLabel "Midongy-Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG25215" ;
 .
 
 <urn:mdciii:1603:16:450:2:25217>
@@ -581,7 +532,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:25217" ;
     skos:prefLabel "Vondrozo"@eng-Latn ;
-    wdata:q7200235 "MG25217" ;
 .
 
 <urn:mdciii:1603:16:450:2:25222>
@@ -590,7 +540,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:25222" ;
     skos:prefLabel "Befotaka"@eng-Latn ;
-    wdata:q7200235 "MG25222" ;
 .
 
 <urn:mdciii:1603:16:450:2:31301>
@@ -599,7 +548,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:31301" ;
     skos:prefLabel "Toamasina I"@eng-Latn ;
-    wdata:q7200235 "MG31301" ;
 .
 
 <urn:mdciii:1603:16:450:2:31306>
@@ -608,7 +556,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:31306" ;
     skos:prefLabel "Brickaville"@eng-Latn ;
-    wdata:q7200235 "MG31306" ;
 .
 
 <urn:mdciii:1603:16:450:2:31307>
@@ -617,7 +564,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:31307" ;
     skos:prefLabel "Vatomandry"@eng-Latn ;
-    wdata:q7200235 "MG31307" ;
 .
 
 <urn:mdciii:1603:16:450:2:31308>
@@ -626,7 +572,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:31308" ;
     skos:prefLabel "Mahanoro"@eng-Latn ;
-    wdata:q7200235 "MG31308" ;
 .
 
 <urn:mdciii:1603:16:450:2:31309>
@@ -635,7 +580,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:31309" ;
     skos:prefLabel "Marolambo"@eng-Latn ;
-    wdata:q7200235 "MG31309" ;
 .
 
 <urn:mdciii:1603:16:450:2:31310>
@@ -644,7 +588,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:31310" ;
     skos:prefLabel "Toamasina II"@eng-Latn ;
-    wdata:q7200235 "MG31310" ;
 .
 
 <urn:mdciii:1603:16:450:2:31311>
@@ -653,7 +596,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:31311" ;
     skos:prefLabel "Antanambao Manampontsy"@eng-Latn ;
-    wdata:q7200235 "MG31311" ;
 .
 
 <urn:mdciii:1603:16:450:2:32302>
@@ -662,7 +604,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:32302" ;
     skos:prefLabel "Sainte Marie"@eng-Latn ;
-    wdata:q7200235 "MG32302" ;
 .
 
 <urn:mdciii:1603:16:450:2:32303>
@@ -671,7 +612,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:32303" ;
     skos:prefLabel "Maroantsetra"@eng-Latn ;
-    wdata:q7200235 "MG32303" ;
 .
 
 <urn:mdciii:1603:16:450:2:32304>
@@ -680,7 +620,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:32304" ;
     skos:prefLabel "Mananara-Avaratra"@eng-Latn ;
-    wdata:q7200235 "MG32304" ;
 .
 
 <urn:mdciii:1603:16:450:2:32305>
@@ -689,7 +628,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:32305" ;
     skos:prefLabel "Fenerive Est"@eng-Latn ;
-    wdata:q7200235 "MG32305" ;
 .
 
 <urn:mdciii:1603:16:450:2:32315>
@@ -698,7 +636,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:32315" ;
     skos:prefLabel "Vavatenina"@eng-Latn ;
-    wdata:q7200235 "MG32315" ;
 .
 
 <urn:mdciii:1603:16:450:2:32318>
@@ -707,7 +644,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:32318" ;
     skos:prefLabel "Soanierana Ivongo"@eng-Latn ;
-    wdata:q7200235 "MG32318" ;
 .
 
 <urn:mdciii:1603:16:450:2:33312>
@@ -716,7 +652,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:33312" ;
     skos:prefLabel "Amparafaravola"@eng-Latn ;
-    wdata:q7200235 "MG33312" ;
 .
 
 <urn:mdciii:1603:16:450:2:33313>
@@ -725,7 +660,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:33313" ;
     skos:prefLabel "Ambatondrazaka"@eng-Latn ;
-    wdata:q7200235 "MG33313" ;
 .
 
 <urn:mdciii:1603:16:450:2:33314>
@@ -734,7 +668,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:33314" ;
     skos:prefLabel "Moramanga"@eng-Latn ;
-    wdata:q7200235 "MG33314" ;
 .
 
 <urn:mdciii:1603:16:450:2:33316>
@@ -743,7 +676,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:33316" ;
     skos:prefLabel "Andilamena"@eng-Latn ;
-    wdata:q7200235 "MG33316" ;
 .
 
 <urn:mdciii:1603:16:450:2:33317>
@@ -752,7 +684,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:33317" ;
     skos:prefLabel "Anosibe-An'ala"@eng-Latn ;
-    wdata:q7200235 "MG33317" ;
 .
 
 <urn:mdciii:1603:16:450:2:41401>
@@ -761,7 +692,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:41401" ;
     skos:prefLabel "Mahajanga I"@eng-Latn ;
-    wdata:q7200235 "MG41401" ;
 .
 
 <urn:mdciii:1603:16:450:2:41403>
@@ -770,7 +700,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:41403" ;
     skos:prefLabel "Soalala"@eng-Latn ;
-    wdata:q7200235 "MG41403" ;
 .
 
 <urn:mdciii:1603:16:450:2:41405>
@@ -779,7 +708,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:41405" ;
     skos:prefLabel "Ambato Boeni"@eng-Latn ;
-    wdata:q7200235 "MG41405" ;
 .
 
 <urn:mdciii:1603:16:450:2:41406>
@@ -788,7 +716,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:41406" ;
     skos:prefLabel "Marovoay"@eng-Latn ;
-    wdata:q7200235 "MG41406" ;
 .
 
 <urn:mdciii:1603:16:450:2:41407>
@@ -797,7 +724,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:41407" ;
     skos:prefLabel "Mitsinjo"@eng-Latn ;
-    wdata:q7200235 "MG41407" ;
 .
 
 <urn:mdciii:1603:16:450:2:41415>
@@ -806,7 +732,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:41415" ;
     skos:prefLabel "Mahajanga II"@eng-Latn ;
-    wdata:q7200235 "MG41415" ;
 .
 
 <urn:mdciii:1603:16:450:2:42409>
@@ -815,7 +740,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:42409" ;
     skos:prefLabel "Port-Berge (Boriziny-Vaovao)"@eng-Latn ;
-    wdata:q7200235 "MG42409" ;
 .
 
 <urn:mdciii:1603:16:450:2:42410>
@@ -824,7 +748,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:42410" ;
     skos:prefLabel "Mandritsara"@eng-Latn ;
-    wdata:q7200235 "MG42410" ;
 .
 
 <urn:mdciii:1603:16:450:2:42411>
@@ -833,7 +756,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:42411" ;
     skos:prefLabel "Analalava"@eng-Latn ;
-    wdata:q7200235 "MG42411" ;
 .
 
 <urn:mdciii:1603:16:450:2:42412>
@@ -842,7 +764,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:42412" ;
     skos:prefLabel "Befandriana Nord"@eng-Latn ;
-    wdata:q7200235 "MG42412" ;
 .
 
 <urn:mdciii:1603:16:450:2:42413>
@@ -851,7 +772,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:42413" ;
     skos:prefLabel "Antsohihy"@eng-Latn ;
-    wdata:q7200235 "MG42413" ;
 .
 
 <urn:mdciii:1603:16:450:2:42414>
@@ -860,7 +780,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:42414" ;
     skos:prefLabel "Bealanana"@eng-Latn ;
-    wdata:q7200235 "MG42414" ;
 .
 
 <urn:mdciii:1603:16:450:2:42423>
@@ -869,7 +788,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:42423" ;
     skos:prefLabel "Mampikony"@eng-Latn ;
-    wdata:q7200235 "MG42423" ;
 .
 
 <urn:mdciii:1603:16:450:2:43404>
@@ -878,7 +796,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:43404" ;
     skos:prefLabel "Maevatanana"@eng-Latn ;
-    wdata:q7200235 "MG43404" ;
 .
 
 <urn:mdciii:1603:16:450:2:43408>
@@ -887,7 +804,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:43408" ;
     skos:prefLabel "Tsaratanana"@eng-Latn ;
-    wdata:q7200235 "MG43408" ;
 .
 
 <urn:mdciii:1603:16:450:2:43416>
@@ -896,7 +812,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:43416" ;
     skos:prefLabel "Kandreho"@eng-Latn ;
-    wdata:q7200235 "MG43416" ;
 .
 
 <urn:mdciii:1603:16:450:2:44402>
@@ -905,7 +820,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:44402" ;
     skos:prefLabel "Besalampy"@eng-Latn ;
-    wdata:q7200235 "MG44402" ;
 .
 
 <urn:mdciii:1603:16:450:2:44417>
@@ -914,7 +828,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:44417" ;
     skos:prefLabel "Ambatomainty"@eng-Latn ;
-    wdata:q7200235 "MG44417" ;
 .
 
 <urn:mdciii:1603:16:450:2:44420>
@@ -923,7 +836,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:44420" ;
     skos:prefLabel "Antsalova"@eng-Latn ;
-    wdata:q7200235 "MG44420" ;
 .
 
 <urn:mdciii:1603:16:450:2:44421>
@@ -932,7 +844,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:44421" ;
     skos:prefLabel "Maintirano"@eng-Latn ;
-    wdata:q7200235 "MG44421" ;
 .
 
 <urn:mdciii:1603:16:450:2:44422>
@@ -941,7 +852,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:44422" ;
     skos:prefLabel "Morafenobe"@eng-Latn ;
-    wdata:q7200235 "MG44422" ;
 .
 
 <urn:mdciii:1603:16:450:2:51501>
@@ -950,7 +860,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51501" ;
     skos:prefLabel "Toliary-I"@eng-Latn ;
-    wdata:q7200235 "MG51501" ;
 .
 
 <urn:mdciii:1603:16:450:2:51503>
@@ -959,7 +868,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51503" ;
     skos:prefLabel "Beroroha"@eng-Latn ;
-    wdata:q7200235 "MG51503" ;
 .
 
 <urn:mdciii:1603:16:450:2:51504>
@@ -968,7 +876,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51504" ;
     skos:prefLabel "Morombe"@eng-Latn ;
-    wdata:q7200235 "MG51504" ;
 .
 
 <urn:mdciii:1603:16:450:2:51505>
@@ -977,7 +884,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51505" ;
     skos:prefLabel "Ankazoabo"@eng-Latn ;
-    wdata:q7200235 "MG51505" ;
 .
 
 <urn:mdciii:1603:16:450:2:51506>
@@ -986,7 +892,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51506" ;
     skos:prefLabel "Betioky Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG51506" ;
 .
 
 <urn:mdciii:1603:16:450:2:51507>
@@ -995,7 +900,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51507" ;
     skos:prefLabel "Ampanihy Ouest"@eng-Latn ;
-    wdata:q7200235 "MG51507" ;
 .
 
 <urn:mdciii:1603:16:450:2:51512>
@@ -1004,7 +908,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51512" ;
     skos:prefLabel "Sakaraha"@eng-Latn ;
-    wdata:q7200235 "MG51512" ;
 .
 
 <urn:mdciii:1603:16:450:2:51520>
@@ -1013,7 +916,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51520" ;
     skos:prefLabel "Toliary-II"@eng-Latn ;
-    wdata:q7200235 "MG51520" ;
 .
 
 <urn:mdciii:1603:16:450:2:51521>
@@ -1022,7 +924,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:51521" ;
     skos:prefLabel "Benenitra"@eng-Latn ;
-    wdata:q7200235 "MG51521" ;
 .
 
 <urn:mdciii:1603:16:450:2:52513>
@@ -1031,7 +932,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:52513" ;
     skos:prefLabel "Beloha"@eng-Latn ;
-    wdata:q7200235 "MG52513" ;
 .
 
 <urn:mdciii:1603:16:450:2:52514>
@@ -1040,7 +940,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:52514" ;
     skos:prefLabel "Tsihombe"@eng-Latn ;
-    wdata:q7200235 "MG52514" ;
 .
 
 <urn:mdciii:1603:16:450:2:52516>
@@ -1049,7 +948,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:52516" ;
     skos:prefLabel "Ambovombe-Androy"@eng-Latn ;
-    wdata:q7200235 "MG52516" ;
 .
 
 <urn:mdciii:1603:16:450:2:52518>
@@ -1058,7 +956,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:52518" ;
     skos:prefLabel "Bekily"@eng-Latn ;
-    wdata:q7200235 "MG52518" ;
 .
 
 <urn:mdciii:1603:16:450:2:53515>
@@ -1067,7 +964,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:53515" ;
     skos:prefLabel "Taolagnaro"@eng-Latn ;
-    wdata:q7200235 "MG53515" ;
 .
 
 <urn:mdciii:1603:16:450:2:53517>
@@ -1076,7 +972,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:53517" ;
     skos:prefLabel "Betroka"@eng-Latn ;
-    wdata:q7200235 "MG53517" ;
 .
 
 <urn:mdciii:1603:16:450:2:53519>
@@ -1085,7 +980,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:53519" ;
     skos:prefLabel "Amboasary-Atsimo"@eng-Latn ;
-    wdata:q7200235 "MG53519" ;
 .
 
 <urn:mdciii:1603:16:450:2:54502>
@@ -1094,7 +988,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:54502" ;
     skos:prefLabel "Manja"@eng-Latn ;
-    wdata:q7200235 "MG54502" ;
 .
 
 <urn:mdciii:1603:16:450:2:54508>
@@ -1103,7 +996,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:54508" ;
     skos:prefLabel "Morondava"@eng-Latn ;
-    wdata:q7200235 "MG54508" ;
 .
 
 <urn:mdciii:1603:16:450:2:54509>
@@ -1112,7 +1004,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:54509" ;
     skos:prefLabel "Mahabo"@eng-Latn ;
-    wdata:q7200235 "MG54509" ;
 .
 
 <urn:mdciii:1603:16:450:2:54510>
@@ -1121,7 +1012,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:54510" ;
     skos:prefLabel "Belo Sur Tsiribihina"@eng-Latn ;
-    wdata:q7200235 "MG54510" ;
 .
 
 <urn:mdciii:1603:16:450:2:54511>
@@ -1130,7 +1020,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:54511" ;
     skos:prefLabel "Miandrivazo"@eng-Latn ;
-    wdata:q7200235 "MG54511" ;
 .
 
 <urn:mdciii:1603:16:450:2:71713>
@@ -1139,7 +1028,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:71713" ;
     skos:prefLabel "Antsiranana II"@eng-Latn ;
-    wdata:q7200235 "MG71713" ;
 .
 
 <urn:mdciii:1603:16:450:2:71715>
@@ -1148,7 +1036,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:71715" ;
     skos:prefLabel "Antsiranana I"@eng-Latn ;
-    wdata:q7200235 "MG71715" ;
 .
 
 <urn:mdciii:1603:16:450:2:71717>
@@ -1157,7 +1044,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:71717" ;
     skos:prefLabel "Ambilobe"@eng-Latn ;
-    wdata:q7200235 "MG71717" ;
 .
 
 <urn:mdciii:1603:16:450:2:71718>
@@ -1166,7 +1052,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:71718" ;
     skos:prefLabel "Nosy-Be"@eng-Latn ;
-    wdata:q7200235 "MG71718" ;
 .
 
 <urn:mdciii:1603:16:450:2:71719>
@@ -1175,7 +1060,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:71719" ;
     skos:prefLabel "Ambanja"@eng-Latn ;
-    wdata:q7200235 "MG71719" ;
 .
 
 <urn:mdciii:1603:16:450:2:72710>
@@ -1184,7 +1068,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:72710" ;
     skos:prefLabel "Antalaha"@eng-Latn ;
-    wdata:q7200235 "MG72710" ;
 .
 
 <urn:mdciii:1603:16:450:2:72711>
@@ -1193,7 +1076,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:72711" ;
     skos:prefLabel "Sambava"@eng-Latn ;
-    wdata:q7200235 "MG72711" ;
 .
 
 <urn:mdciii:1603:16:450:2:72712>
@@ -1202,7 +1084,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:72712" ;
     skos:prefLabel "Andapa"@eng-Latn ;
-    wdata:q7200235 "MG72712" ;
 .
 
 <urn:mdciii:1603:16:450:2:72716>
@@ -1211,6 +1092,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:450:2:72716" ;
     skos:prefLabel "Vohemar"@eng-Latn ;
-    wdata:q7200235 "MG72716" ;
 .
 
